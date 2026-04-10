@@ -27,7 +27,7 @@ My research focuses on **humanoid robot joint design & high-performance control*
 ## 📝 Academic & Industrial Achievements
 ### Selected Publications
 1. **Kaijie Qi**, Dai Li, Handing Xu, et al. Design and Development of a Five-Degree-of-Freedom Knee Joint Rehabilitation Robot with Multimode Signal Monitoring. *2024 International Conference on Intelligent Robotics and Applications (ICIRA)* (Oral Presentation)
-2. **Kaijie Qi**, Yunzhi Chen, Zhenguo Nie. Design and Cableless Close-Loop Control of a Separated-Structure Magnetic Actuator with Large Air Gap for Confined-Space Application. *IEEE Transactions on Mechatronics* (Major Revision, Top Journal in Mechatronics, Q1)
+2. **Kaijie Qi**, Yunzhi Chen, Zhenguo Nie. Design and Cableless Close-Loop Control of a Separated-Structure Magnetic Actuator with Large Air Gap for Confined-Space Application. *IEEE Transactions on Mechatronics*
 
 ### Patents
 - 5+ national invention patents, covering rehabilitation robot structure, electromagnetic drive system, precision reducer design and intramedullary lengthening control algorithm.
