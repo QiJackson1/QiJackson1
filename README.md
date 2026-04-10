@@ -1,8 +1,8 @@
 # 👋 Welcome to @QiJackson1's Space
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Research-Humanoid_Robotics-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-Motor_Control-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research-Embodied_AI-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research-Motor_Design_&_Control-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Research-Rehabilitation_Robotics-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Tsinghua_University-PhD-critical?style=flat-square" />
 </div>
