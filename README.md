@@ -1,4 +1,4 @@
-# 👋 Welcome to @QiJackson1's Space
+# 👋 Welcome to Kaijie Qi's Space
 
 <div align="center">
   <img src="https://img.shields.io/badge/Research-Embodied_AI-blue?style=flat-square" />
