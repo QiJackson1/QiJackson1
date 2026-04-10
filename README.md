@@ -39,19 +39,6 @@ I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exosk
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/MATLAB/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANSYS-FF0000?style=for-the-badge&logo=ansys&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-</div>
-
----
-
 ## 📬 Contact Me
 - 📧 Academic Email: qkj23@mails.tsinghua.edu.cn
 - 🏫 Affiliation: Tsinghua University, Beijing, China
