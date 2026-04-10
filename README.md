@@ -10,40 +10,32 @@
 ---
 
 ## 🚀 About Me
-I'm a PhD student admitted to the School of Artificial Intelligence, Tsinghua University, and currently a Master's student in the Department of Mechanical Engineering, Tsinghua University.
+I'm a PhD student in college of AI, Tsinghua University.
 
-My research focuses on **humanoid robot joint design & high-performance control**, **special motor design & sensorless control**, and **exoskeleton & rehabilitation robotics**. I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exoskeleton rehabilitation solutions for sports health.
+My research focuses on **VLA & reinforcement learning**, **special motor design & sensorless control**, and **exoskeleton & rehabilitation robotics**. 
+I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exoskeleton rehabilitation solutions for sports health.
 
 ---
 
 ## 🔬 Core Research Interests
-- 🦾 **Humanoid Robotics**: Joint module design, high-precision motion & torque closed-loop control
-- ⚡ **Motor Control**: Special PMSM design, sensorless control, sliding mode observer, FOC
+- 🦾 **Embodied AI**: VLA, reinforcement learning, world model
+- ⚡ **Motor Design & Control**: PMSM design, sensorless control, sliding mode observer, FOC
 - 🦿 **Rehabilitation Robotics**: Knee rehabilitation robots, intramedullary lengthening robots, wearable exoskeletons
-- 🧲 **Electromagnetic Actuation**: Large air-gap magnetic actuator, non-contact drive for confined space
 
 ---
 
 ## 📝 Academic & Industrial Achievements
 ### Selected Publications
-1. **Kaijie Qi**, Dai Li, Handing Xu, et al. Design and Development of a Five-Degree-of-Freedom Knee Joint Rehabilitation Robot with Multimode Signal Monitoring. *2024 International Conference on Intelligent Robotics and Applications (ICIRA)* (Oral Presentation)
-2. **Kaijie Qi**, Yunzhi Chen, Zhenguo Nie. Design and Cableless Close-Loop Control of a Separated-Structure Magnetic Actuator with Large Air Gap for Confined-Space Application. *IEEE Transactions on Mechatronics*
 
-### Patents
-- 5+ national invention patents, covering rehabilitation robot structure, electromagnetic drive system, precision reducer design and intramedullary lengthening control algorithm.
-
-### Industrialization
-- Founder & CEO of LingXi Technology, focusing on sports health exoskeleton rehabilitation solutions. The team has been incubated in Tsinghua x-lab, Chuang+, iCenter and other innovation platforms, and has been recognized by many investment institutions.
+1. **Kaijie Qi**, Yunzhi Chen, Zhenguo Nie. Design and Cableless Close-Loop Control of a Separated-Structure Magnetic Actuator with Large Air Gap for Confined-Space Application. *IEEE Transactions on Mechatronics*
+2. **Kaijie Qi**, Dai Li, Handing Xu, et al. Design and Development of a Five-Degree-of-Freedom Knee Joint Rehabilitation Robot with Multimode Signal Monitoring. *2024 International Conference on Intelligent Robotics and Applications (ICIRA)* (Oral Presentation)
 
 ---
 
 ## 🏆 Honors & Awards
-- 🏅 **National Scholarship** (2020, 2021, 2025, 3 times, comprehensive ranking 1st)
-- 🎓 Tsinghua University Comprehensive First-Class Scholarship (Top 5%)
-- 🥇 Champion of Tsinghua Medical-Engineering Integration Innovation Competition
+- 🏅 **National Scholarship** (3 times, comprehensive ranking 1st)
+- 🥇 **Champion** of Tsinghua Medical-Engineering Integration Innovation Competition
 - 🥇 First Prize of Beijing College Students Innovation and Entrepreneurship Competition
-- 🥇 First Prize of National Advanced Graphics Technology and Product Information Modeling Innovation Competition
-- 🎖️ Excellent Graduate & Excellent Graduation Thesis of Henan Province
 
 ---
 
