@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Research-Embodied_AI-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Research-Rehabilitation_Robotics-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Research-Motor_Design_&_Control-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research-Rehabilitation_Robotics-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Tsinghua_University-PhD-critical?style=flat-square" />
 </div>
 
@@ -12,7 +12,7 @@
 ## 🚀 About Me
 I'm a PhD student in college of AI, Tsinghua University.
 
-My research focuses on **VLA & reinforcement learning**, **special motor design & sensorless control**, and **exoskeleton & rehabilitation robotics**. 
+My research focuses on **VLA & reinforcement learning**, **motor design & sensorless control**, and **exoskeleton & rehabilitation robotics**. 
 I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exoskeleton rehabilitation solutions for sports health.
 
 ---
@@ -27,8 +27,8 @@ I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exosk
 ## 📝 Academic & Industrial Achievements
 ### Selected Publications
 
-1. **Kaijie Qi**, Yunzhi Chen, Zhenguo Nie. Design and Cableless Close-Loop Control of a Separated-Structure Magnetic Actuator with Large Air Gap for Confined-Space Application. *IEEE Transactions on Mechatronics*
-2. **Kaijie Qi**, Dai Li, Handing Xu, et al. Design and Development of a Five-Degree-of-Freedom Knee Joint Rehabilitation Robot with Multimode Signal Monitoring. *2024 International Conference on Intelligent Robotics and Applications (ICIRA)* (Oral Presentation)
+1. **Kaijie Qi**, Yunzhi Chen, Zhenguo Nie. Design and Cableless Close-Loop Control of a Separated-Structure Magnetic Actuator with Large Air Gap for Confined-Space Application. *IEEE Transactions on Mechatronics*.
+2. **Kaijie Qi**, Dai Li, Handing Xu, et al. Design and Development of a Five-Degree-of-Freedom Knee Joint Rehabilitation Robot with Multimode Signal Monitoring. *2024 International Conference on Intelligent Robotics and Applications (ICIRA)*. (Oral Presentation)
 
 ---
 
