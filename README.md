@@ -35,7 +35,7 @@ I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exosk
 ## 🏆 Honors & Awards
 - 🏅 **National Scholarship** (3 times, comprehensive ranking 1st)
 - 🥇 **Champion** of Tsinghua Medical-Engineering Integration Innovation Competition
-- 🥇 First Prize of Beijing College Students Innovation and Entrepreneurship Competition
+- 🥇 **First Prize** of Beijing College Students Innovation and Entrepreneurship Competition
 
 ---
 
