@@ -20,7 +20,7 @@ I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exosk
 ## 🔬 Core Research Interests
 - 🦾 **Embodied AI**: VLA, reinforcement learning, world model
 - 🦿 **Rehabilitation Robotics**: Knee rehabilitation robots, intramedullary lengthening robots, wearable exoskeletons
-- ⚡ **Motor Design & Control**: PMSM design, sensorless control, sliding mode observer, FOC
+- ⚡ **Motor Design & Control**: PMSM design, sensorless control, SMO, EKF, FOC
 
 ---
 
