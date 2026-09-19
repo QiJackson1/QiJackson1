@@ -12,13 +12,13 @@
 ## 🚀 About Me
 I'm a PhD student in college of AI, Tsinghua University.
 
-My research focuses on **VLA & reinforcement learning**, **exoskeleton & rehabilitation robotics**, and **motor design & sensorless control**. 
+My research focuses on **Whole body control & reinforcement learning**, **exoskeleton & rehabilitation robotics**, and **motor design & sensorless control**. 
 I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exoskeleton rehabilitation solutions for sports health.
 
 ---
 
 ## 🔬 Core Research Interests
-- 🦾 **Embodied AI**: VLA, reinforcement learning, world model
+- 🦾 **Embodied AI**: whole body control, reinforcement learning
 - 🦿 **Rehabilitation Robotics**: Knee rehabilitation robots, intramedullary lengthening robots, wearable exoskeletons
 - ⚡ **Motor Design & Control**: PMSM design, sensorless control, SMO, EKF, FOC
 
