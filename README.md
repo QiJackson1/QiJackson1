@@ -28,7 +28,7 @@ I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exosk
 ### Selected Publications
 
 1. **Kaijie Qi**, Yunzhi Chen, Zhenguo Nie. Design and Cableless Close-Loop Control of a Separated-Structure Magnetic Actuator with Large Air Gap for Confined-Space Application. *IEEE Transactions on Mechatronics*.
-2. **Kaijie Qi**, Yuehan Wang, Kaiming Xu, Chong Li, Jiakuo Yu. PhaseSync-Exo: Human Clock Anchored Reference Adaptation for Dynamic Gait Tracking. *IEEE International Conference on Robotics & Automation (ICRA)*.
+2. **Kaijie Qi**, Yuehan Wang, Kaiming Xu, Chong Li, Jiakuo Yu. PhaseSync-Exo: Human Clock Anchored Reference Adaptation for Dynamic Gait Tracking. *arXiv*.
 3. **Kaijie Qi**, Dai Li, Handing Xu, et al. Design and Development of a Five-Degree-of-Freedom Knee Joint Rehabilitation Robot with Multimode Signal Monitoring. *2024 International Conference on Intelligent Robotics and Applications (ICIRA)*. (Oral)
 4. Chaoran E, Chenghan Chen, **Kaijie Qi**, et al. An AI-Driven Pulsation Method of pVADs for Cardiac Digital Twins. *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI).*
 
