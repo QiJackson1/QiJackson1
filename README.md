@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-I'm a PhD student in college of AI, Tsinghua University.
+Hi！I‘m Kaijie Qi. I'm a PhD student in college of AI, Tsinghua University.
 
 My research focuses on **Whole body control & reinforcement learning**, **exoskeleton & rehabilitation robotics**, and **motor design & sensorless control**. 
 I'm also the Founder & CEO of LingXi Technology, dedicated to personalized exoskeleton rehabilitation solutions for sports health.
